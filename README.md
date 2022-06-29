@@ -1,1 +1,1 @@
-# restaurant
+# LTUS Restaurant
